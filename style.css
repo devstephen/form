@@ -1,3 +1,8 @@
 body {
-    background-color: blue;
+    background-image: url('./pexels-flo-maderebner-623919.jpg');
+    background-position: center left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;  
+    overflow: hidden;
 }
